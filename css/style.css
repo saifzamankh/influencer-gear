@@ -267,6 +267,8 @@ img{
     }
     .journey-image{
         text-align: center;
+        position: relative; 
+        left: 0px;
     }
     .journey-image:hover img{
         transform: scale(1.3);
