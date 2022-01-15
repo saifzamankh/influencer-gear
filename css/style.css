@@ -234,9 +234,9 @@ img{
     color: white;
     font-size: 30px;
 }
-/*---------------------
+/*----------------------------------
     Media Screen for Mobile Device 
- ----------------------*/
+ -----------------------------------*/
 @media only screen and (min-width:280px) and (max-width:819px) {
     nav {
         display: flex;
@@ -303,9 +303,9 @@ img{
         justify-items: center;
     }
 }
-/*---------------------
+/*---------------------------------
     Media Screen for Tablet Device 
- ----------------------*/
+ ----------------------------------*/
 @media only screen and (min-width:820px) and (max-width:1180px) {
     nav {
         display: flex;
