@@ -286,6 +286,7 @@ img{
     border-bottom: 1px solid #E6ECF1;
     grid-row-gap: 2em;
     justify-items: center;
+    padding-top: 10px;
     }
     .collections{
         background-color: #f6f7f9;
@@ -349,11 +350,12 @@ img{
     width: 100%;
     height: auto;
     display: grid;
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     border-top: 1px solid #E6ECF1;
     border-bottom: 1px solid #E6ECF1;
-    grid-row-gap: 2em;
+    grid-column-gap: 2em;
     justify-items: center;
+    padding-top: 10px;
     }
     .collections{
         background-color: #f6f7f9;
